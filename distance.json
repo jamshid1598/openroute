@@ -1,0 +1,201 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "bbox":[69.323671,41.325616,69.338994,41.340274],
+            "type":"Feature",
+            "properties":{
+                "segments":[
+                    {
+                        "distance":4652.2,
+                        "duration":378.1,
+                        "steps":[
+                            {
+                                "distance":130.6,
+                                "duration":15.7,
+                                "type":11,
+                                "instruction":"Head south on Kalandar o'tish ko'chasi",
+                                "name":"Kalandar o'tish ko'chasi",
+                                "way_points":[0,1]
+                            },
+                            {
+                                "distance":301.6,
+                                "duration":18.1,
+                                "type":1,
+                                "instruction":"Turn right onto Ziyolilar ko'chasi",
+                                "name":"Ziyolilar ko'chasi",
+                                "way_points":[1,5]
+                            },
+                            {
+                                "distance":1165.5,
+                                "duration":76.4,
+                                "type":6,
+                                "instruction":"Continue straight onto Ziyolilar ko'chasi",
+                                "name":"Ziyolilar ko'chasi",
+                                "way_points":[5,28]
+                            },
+                            {
+                                "distance":328.5,
+                                "duration":23.7,
+                                "type":1,
+                                "instruction":"Turn right onto Do‘rmon yo‘li ko‘chasi",
+                                "name":"Do‘rmon yo‘li ko‘chasi",
+                                "way_points":[28,31]
+                            },
+                            {
+                                "distance":1676.9,
+                                "duration":129.8,
+                                "type":1,
+                                "instruction":"Turn right onto Mirzo Ulug'bek shoh ko'chasi",
+                                "name":"Mirzo Ulug'bek shoh ko'chasi",
+                                "way_points":[31,46]
+                            },
+                            {
+                                "distance":124.5,
+                                "duration":14.9,
+                                "type":12,
+                                "instruction":"Keep left onto Mirzo Ulug'bek shoh ko'chasi",
+                                "name":"Mirzo Ulug'bek shoh ko'chasi",
+                                "way_points":[46,48]
+                            },
+                            {
+                                "distance":15.2,
+                                "duration":3.6,
+                                "type":6,
+                                "instruction":"Continue straight onto Mirzo Ulug'bek shoh ko'chasi",
+                                "name":"Mirzo Ulug'bek shoh ko'chasi",
+                                "way_points":[48,49]
+                            },
+                            {
+                                "distance":26.8,
+                                "duration":6.4,
+                                "type":2,
+                                "instruction":"Turn sharp left onto Mustaqillik shoh ko'chasi",
+                                "name":"Mustaqillik shoh ko'chasi",
+                                "way_points":[49,50]
+                            },
+                            {
+                                "distance":560.9,
+                                "duration":43.7,
+                                "type":13,
+                                "instruction":"Keep right onto Buyuk Ipak Yo'li ko'chasi",
+                                "name":"Buyuk Ipak Yo'li ko'chasi",
+                                "way_points":[50,56]
+                            },
+                            {
+                                "distance":321.6,
+                                "duration":45.7,
+                                "type":6,
+                                "instruction":"Continue straight onto Buyuk Ipak Yo'li ko'chasi",
+                                "name":"Buyuk Ipak Yo'li ko'chasi",
+                                "way_points":[56,67]
+                            },
+                            {
+                                "distance":0.0,
+                                "duration":0.0,
+                                "type":10,
+                                "instruction":"Arrive at Buyuk Ipak Yo'li ko'chasi, on the right",
+                                "name":"-",
+                                "way_points":[67,67]
+                            }
+                        ]
+                    }
+                ],
+                "summary":{
+                    "distance":4652.2,
+                    "duration":378.1
+                },
+                "way_points":[0,67]
+            },
+            "geometry":{
+                "coordinates":[
+                    [69.327007,41.33839],
+                    [69.327238,41.337228],
+                    [69.325589,41.337029],
+                    [69.323997,41.336834],
+                    [69.32385,41.336816],
+                    [69.323671,41.336795],
+                    [69.323695,41.336693],
+                    [69.32388,41.336717],
+                    [69.324545,41.336788],
+                    [69.325465,41.336905],
+                    [69.327243,41.337123],
+                    [69.327376,41.33714],
+                    [69.328234,41.337246],
+                    [69.329079,41.337352],
+                    [69.329973,41.337471],
+                    [69.330093,41.337485],
+                    [69.330147,41.337491],
+                    [69.330272,41.337505],
+                    [69.332934,41.337858],
+                    [69.333082,41.337888],
+                    [69.333221,41.337916],
+                    [69.333387,41.337981],
+                    [69.333639,41.338158],
+                    [69.334079,41.338542],
+                    [69.334721,41.33914],
+                    [69.335341,41.339731],
+                    [69.335775,41.340136],
+                    [69.335797,41.340157],
+                    [69.335916,41.340274],
+                    [69.336085,41.340168],
+                    [69.33877,41.338572],
+                    [69.338994,41.338433],
+                    [69.338897,41.338342],
+                    [69.335125,41.334785],
+                    [69.335065,41.334729],
+                    [69.334933,41.334604],
+                    [69.334683,41.334368],
+                    [69.334573,41.334264],
+                    [69.333139,41.332898],
+                    [69.332699,41.332487],
+                    [69.331604,41.331465],
+                    [69.330248,41.330113],
+                    [69.329892,41.329776],
+                    [69.329825,41.329712],
+                    [69.329445,41.329352],
+                    [69.326971,41.327007],
+                    [69.326551,41.326596],
+                    [69.32603,41.326108],
+                    [69.325618,41.325722],
+                    [69.325504,41.325616],
+                    [69.325821,41.325655],
+                    [69.326536,41.325752],
+                    [69.327556,41.325889],
+                    [69.330061,41.326221],
+                    [69.3322,41.326499],
+                    [69.332361,41.32652],
+                    [69.332436,41.32653],
+                    [69.332404,41.326651],
+                    [69.332281,41.326633],
+                    [69.332172,41.326617],
+                    [69.33179,41.326565],
+                    [69.331639,41.326544],
+                    [69.330384,41.326372],
+                    [69.329973,41.326316],
+                    [69.329489,41.326251],
+                    [69.329106,41.3262],
+                    [69.32889,41.326172],
+                    [69.328776,41.326157]
+                ],
+                "type":"LineString"
+            }
+        }
+    ],
+    "bbox":[69.323671,41.325616,69.338994,41.340274],
+    "metadata":{
+        "attribution":"openrouteservice.org | OpenStreetMap contributors",
+        "service":"routing",
+        "timestamp":1651677286041,
+        "query":{
+            "coordinates":[[69.327089,41.338399],[69.32875921221458,41.32623097491999]],
+            "profile":"driving-car",
+            "format":"json"
+        },
+        "engine":{
+            "version":"6.7.0",
+            "build_date":"2022-02-18T19:37:41Z",
+            "graph_date":"2022-03-20T11:18:01Z"
+        }
+    }
+}
